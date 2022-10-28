@@ -9,8 +9,8 @@ export default function Home() {
       <div id="profile">
         <img src="/assets/person1.jpg" alt="profileImg" id="profile__Img" />
         <div id="profileName">Victor Balogun</div>
-        <a href="https://training.zuri.team/" target="_blank" rel='noopener noreferrer' id='btn__zuri'>Twitter</a>
-         
+        <a href="https://twitter.com/blvckaddiict" target="_blank" rel='noopener noreferrer' id='btn__zuri'>Twitter</a>
+        {/* <a href="victorbalogun.slack.com" target="_blank" rel='noopener noreferrer' id='slack'>Slack</a> */ }
       </div>
 
       <div id="links">
