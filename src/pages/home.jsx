@@ -15,10 +15,10 @@ export default function Home() {
 
       <div id="links">
           <a href="https://training.zuri.team/" target="_blank" rel='noopener noreferrer' id='btn__zuri'>Zuri</a>
-          <a href="http://books.zuri.team " target="_blank" rel='noopener noreferrer' id='books'>Books</a>
-          <a href="https://books.zuri.team/python-for-beginners?ref_id=victorbalogun" target="_blank" rel='noopener noreferrer' id='book__python'>Book Python</a>
-          <a href="https://background.zuri.team" target="_blank" rel='noopener noreferrer' id='pitch'>Pitch</a>
-          <a href="https://books.zuri.team/design-rules"  target="_blank" rel='noopener noreferrer' id='book__design'>Book Design</a>
+          <a href="http://books.zuri.team " target="_blank" rel='noopener noreferrer' id='books'>Zuri Books</a>
+          <a href="https://books.zuri.team/python-for-beginners?ref_id=victorbalogun" target="_blank" rel='noopener noreferrer' id='book__python'>Python Books</a>
+          <a href="https://background.zuri.team" target="_blank" rel='noopener noreferrer' id='Background check for codes'>Pitch</a>
+          <a href="https://books.zuri.team/design-rules"  target="_blank" rel='noopener noreferrer' id='book__design'>Design Books</a>
       </div>`
      </div> 
   )
